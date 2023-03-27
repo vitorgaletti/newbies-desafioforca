@@ -4,7 +4,7 @@ using System.Runtime.Intrinsics.Arm;
 namespace DesafioForca;
 public class Program {
 
-    public static List<char> listOfGuessesLetters = new List<char>();
+    public static List<char> guessList = new List<char>();
     public static int guessesNumber = 6;
     public static void Main(string[] args) {
 
@@ -42,7 +42,7 @@ public class Program {
                     }
                     addLettersGuesses(formattedLetter);
                 }
-                else if (!listOfGuessesLetters.Contains(formattedLetter)) {
+                else if (!guessList.Contains(formattedLetter)) {
                     decrementGuesses();
                     addLettersGuesses(formattedLetter);
                 }
@@ -83,7 +83,7 @@ public class Program {
         Console.WriteLine("\t Dica: COR");
         Console.WriteLine("\n\t Uma cor com " + randomWord.Length + " LETRAS");
         Console.WriteLine("\n\t Número de Palpites: " + guessesNumber);
-        countLettersGuesses();
+        showGuesses();
         Console.WriteLine("\n\n");
         showGuessedLetters(guessedLetters);
 
@@ -119,8 +119,8 @@ public class Program {
 
 
     public static void addLettersGuesses(char formattedLetter) {
-        if (!listOfGuessesLetters.Contains(formattedLetter)) {
-            listOfGuessesLetters.Add(formattedLetter);
+        if (!guessList.Contains(formattedLetter)) {
+            guessList.Add(formattedLetter);
 
         }
         else {
@@ -132,10 +132,10 @@ public class Program {
         }
     }
 
-    public static void countLettersGuesses() {
+    public static void showGuesses() {
         Console.Write("\n\t Tentativas: ");
-        for (int i = 0; i < listOfGuessesLetters.Count; i++) {
-            Console.Write(listOfGuessesLetters[i] + ", ");
+        for (int i = 0; i < guessList.Count; i++) {
+            Console.Write(guessList[i] + ", ");
         }
 
     }
