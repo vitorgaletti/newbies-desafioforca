@@ -1,0 +1,15 @@
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\bin\Debug\net6.0\DesafioForca.exe
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\bin\Debug\net6.0\DesafioForca.dll
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\obj\Debug\net6.0\DesafioForca.csproj.AssemblyReference.cache
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\obj\Debug\net6.0\DesafioForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\obj\Debug\net6.0\DesafioForca.AssemblyInfoInputs.cache
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\obj\Debug\net6.0\DesafioForca.AssemblyInfo.cs
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\obj\Debug\net6.0\DesafioForca.csproj.CoreCompileInputs.cache
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\obj\Debug\net6.0\DesafioForca.dll
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\obj\Debug\net6.0\refint\DesafioForca.dll
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\obj\Debug\net6.0\DesafioForca.pdb
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\bin\Debug\net6.0\DesafioForca.deps.json
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\bin\Debug\net6.0\DesafioForca.runtimeconfig.json
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\bin\Debug\net6.0\DesafioForca.pdb
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\obj\Debug\net6.0\DesafioForca.genruntimeconfig.cache
+C:\Users\VitorAugustoGaletiFr\Documents\Lógica de Programação\DesafioForca\obj\Debug\net6.0\ref\DesafioForca.dll
